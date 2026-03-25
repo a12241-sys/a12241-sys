@@ -1,9 +1,11 @@
 
 
 # Olá, eu sou o João
-Sou estudante de Informática e estou a desenvolver competências em programação.
+Sou estudante do curso GPSI(Gestão e Programação de Sistemas informaticos) e estou a desenvolver competências em programação.
 ## Tecnologias
 - Python
+## Atualmente a aprender
+-Python
 ## Objetivos
 - Tornar-me programador
 - Trabalhar na área de tecnologia
