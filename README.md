@@ -1,4 +1,4 @@
-## Ola 👋
+
 
 # Olá, eu sou o João
 Sou estudante de Informática e estou a desenvolver competências em programação.
