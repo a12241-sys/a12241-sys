@@ -6,6 +6,7 @@ Sou estudante do curso GPSI(Gestão e Programação de Sistemas informaticos) e 
 - Python
 ## Atualmente a aprender
 -Python
+-Github
 ## Objetivos
 - Tornar-me programador
 - Trabalhar na área de tecnologia
