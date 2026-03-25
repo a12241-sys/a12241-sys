@@ -1,5 +1,14 @@
-## Hi there 👋
+## Ola 👋
 
+# Olá, eu sou o João
+Sou estudante de Informática e estou a desenvolver competências em programação.
+## Tecnologias
+- Python
+## Objetivos
+- Tornar-me programador
+- Trabalhar na área de tecnologia
+## Contacto
+- a12241@aemaximinos.edu.pt
 <!--
 **a12241-sys/a12241-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
