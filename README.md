@@ -10,6 +10,8 @@ Sou estudante do curso GPSI(Gestão e Programação de Sistemas informaticos) e 
 ## Objetivos
 - Tornar-me programador
 - Trabalhar na área de tecnologia
+##Projetos
+-Jogo StarWars
 ## Contacto
 - a12241@aemaximinos.edu.pt
 <!--
